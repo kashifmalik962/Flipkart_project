@@ -17,7 +17,7 @@
 }
 
 .nav-logo {
-    background-image: url("flp2.svg");
+    background-image: url("images/flp2.svg");
     background-repeat: no-repeat;
     height: 40px;
     width: 160px;
@@ -154,7 +154,7 @@ input[type="search"]::-webkit-search-cancel-button {
 .panel2-content {
     height: 100%;
     width: 97%;
-    background-image: url('panel2.webp');
+    background-image: url('images/panel2.webp');
     background-position: center;
     background-size: cover;
 }
